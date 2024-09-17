@@ -5,7 +5,7 @@
 - 📫 Email: 8282marlonp@gmail.com
 - 😄 Pronouns: he/him
 <!--- - ⚡ Fun fact: --->
-- ✒️ I'm currently working on my own chess engine, and it is getting improvements over time! You can challenge my engine here[https://lichess.org/@/Knight-To-C-Sharp] if you have a lichess account.
+- ✒️ I'm currently working on my own chess engine, and it is getting improvements over time! You can challenge my engine [here](https://lichess.org/@/Knight-To-C-Sharp) if you have a lichess account.
 
 <!---
 eple12/eple12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
